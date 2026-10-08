@@ -1,0 +1,23 @@
+# Environment
+venv/
+.venv/
+
+# Data
+data/
+*.zip
+
+# Model weights
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+0
+
